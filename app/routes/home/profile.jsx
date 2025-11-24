@@ -94,6 +94,7 @@ export const Profile = ({ id, visible, sectionRef }) => {
                 />
                 <svg className={styles.svg} data-visible={visible} viewBox="0 0 136 766">
                   {/* <use href={`${katakana}#katakana-profile`} /> */}
+                  
                 </svg>
               </div>
             </div>
