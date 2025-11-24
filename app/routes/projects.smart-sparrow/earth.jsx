@@ -11,7 +11,7 @@ import { Section } from '~/components/section';
 import { tokens } from '~/components/theme-provider/theme';
 import { Transition } from '~/components/transition';
 import { useReducedMotion, useSpring } from 'framer-motion';
-import { useInViewport, useWindowSize } from '~/hooks';
+import { useInViewport, useWindowSize } from '~/hooks';  
 import {
   createContext,
   memo,
